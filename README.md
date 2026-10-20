@@ -1,6 +1,8 @@
 # Arte Livre BJJ — site (versão 6.2)
 
-Site one-page da Arte Livre BJJ (Vassouras-RJ), só com a versão 6.2. Next.js 14 (export estático), Tailwind, GSAP + ScrollTrigger, Lenis e three.js.
+Site one-page da Arte Livre BJJ (Vassouras-RJ), só com a versão 6.2.
+
+**No ar:** https://artelivrebjj.vercel.app. Cada mudança enviada para a branch `main` deste repositório é publicada sozinha pela Vercel (projeto `artelivrebjj`). Next.js 14 (export estático), Tailwind, GSAP + ScrollTrigger, Lenis e three.js.
 
 O que tem nesta versão:
 
